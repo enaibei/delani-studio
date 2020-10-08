@@ -1,0 +1,11 @@
+.top-page{
+    align-items: center;
+    background-image: url(/images/h_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+    width: 1200px;
+    text-align: center;
+    color: white;
+}
