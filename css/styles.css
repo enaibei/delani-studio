@@ -12,3 +12,11 @@
 #about-us-section{
     text-align: center;
 }
+#services-section{
+    background-image: url(/images/s_image.jpg);
+    text-align: center;
+    align-items: center;
+    color: white;
+    background-repeat: repeat;
+    background-size: cover;
+}
