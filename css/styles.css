@@ -34,8 +34,8 @@
     background-image: url(/images/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 300px;
-    width: 1000px;
+    height: 600px;
+    width: 1200px;
     color: white;
     
 }
@@ -51,3 +51,13 @@
     padding: 50px;
     display: none;
 }
+#client-input{
+    color: white;
+}
+input[type=text],input[type=email],#comment{
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: 'Copse', serif;
+  }
+  
