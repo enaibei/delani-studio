@@ -45,6 +45,7 @@
     height: 100%;
     width: 1400px;
     color: white;
+    padding-left: 10%;
     
 }
 .panel {
@@ -77,6 +78,8 @@ input[type=text],input[type=email],#comment{
     position:absolute;
     top: 20px;
     left: 35px;
+    bottom: 20px;
+    right: 35px;
     font-weight: bold;
     text-align: center;
     font-size: 30px;
@@ -98,8 +101,12 @@ input[type=text],input[type=email],#comment{
       padding-left: 30%;
       padding-top: 7%;
   }
-  .end{
+  .end1{
     
+      text-align: center;
+      padding-top: 5%;
+  }
+  .end2{
       text-align: center;
   }
   
