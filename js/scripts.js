@@ -17,7 +17,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#work1").mouseover(function(){
-      $("#portfolio1").show();
+        $("#portfolio1").show();
     }).mouseout(function(){
       $("#portfolio1").hide();
     });

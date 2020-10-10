@@ -60,4 +60,24 @@ input[type=text],input[type=email],#comment{
     font-size: 20px;
     font-family: 'Copse', serif;
   }
+
+  #portfolio1,#portfolio2,#portfolio3,#portfolio4,#portfolio5,#portfolio6,#portfolio7,#portfolio8{
+    display: none;
+    color: black;
+    width: 100%;
+    height: 100%;
+    position:absolute;
+    top: 20px;
+    left: 35px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40%;
+    background-color: whitesmoke;
+  }
+  
+  #work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
+      background-color: white;
+      opacity: ;
+  }
   
