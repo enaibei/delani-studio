@@ -4,10 +4,14 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 800px;
-    width: 1200px;
+    height: 100%;
+    width: 100%;
     text-align: center;
     color: white;
+    padding-top: 20%
+}
+    #mouse-image{
+    padding-top: 12%;
 }
 #about-us-section{
     text-align: center;
@@ -19,10 +23,14 @@
     color: white;
     background-repeat: repeat;
     background-size: cover;
+    height: 100%;
+    width: 100%;
 }
 .what-we-do{
     align-items: center;
     text-align: center;
+    padding-left: 40%;
+    padding-top: 40%;
 }
 .portfolio{
     text-align: center;
@@ -34,8 +42,8 @@
     background-image: url(/images/c_image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
-    width: 1200px;
+    height: 100%;
+    width: 1400px;
     color: white;
     
 }
@@ -76,8 +84,22 @@ input[type=text],input[type=email],#comment{
     background-color: whitesmoke;
   }
   
+  
   #work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
       background-color: white;
       opacity: ;
+  }
+  
+  #contact-us h1{
+      text-align: center;
+  }
+
+  footer{
+      padding-left: 30%;
+      padding-top: 7%;
+  }
+  .end{
+    
+      text-align: center;
   }
   

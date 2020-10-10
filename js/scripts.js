@@ -66,4 +66,20 @@ $(document).ready(function(){
       $("#portfolio8").hide();
     });
   });
+
+  $(document).ready(function(){
+    $("client-input").submit(function(event){
+      var name = $("input#name-input").val();
+      var email = $("input#email-input").val();
+      var message = $("textarea#message").val();
+      if ($("input#name-input").val() && $("input#email-input").val()){
+        alert (name + ", we have received your message. Thank you for reaching out to us.");
+      }
+      else {
+        alert("Please enter your name and email!");
+      }
+      
+    });
+  
+  });
   
