@@ -76,10 +76,10 @@ input[type=text],input[type=email],#comment{
     font-size: 20px;
     font-family: 'Copse', serif;
   }
-  .form-control::-webkit-input-placeholder { 
+.form-control::-webkit-input-placeholder { 
     color: white; }
 
-  #portfolio1,#portfolio2,#portfolio3,#portfolio4,#portfolio5,#portfolio6,#portfolio7,#portfolio8{
+#portfolio1,#portfolio2,#portfolio3,#portfolio4,#portfolio5,#portfolio6,#portfolio7,#portfolio8{
     display: none;
     color: black;
     width: 100%;
@@ -96,31 +96,29 @@ input[type=text],input[type=email],#comment{
   }
   
   
-    #work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
-        background-color: white;
+#work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
+    background-color: white;
     }
-    .col-md-3 img{
-        width:100%px;
-        margin: 20px;
+.col-md-3 img{
+    width:100%px;
+    margin: 20px;
       }
-      
 
-
-  
-  #contact-us h1{
-      text-align: center;
+     
+#contact-us h1{
+    text-align: center;
   }
 
-  footer{
-      padding-left: 30%;
-      padding-top: 7%;
+footer{
+    padding-left: 30%;
+    padding-top: 7%;
   }
-  .end1{
+.end1{
     
-      text-align: center;
-      padding-top: 5%;
+    text-align: center;
+    padding-top: 5%;
   }
-  .end2{
-      text-align: center;
+.end2{
+    text-align: center;
   }
   
