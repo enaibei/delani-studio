@@ -40,12 +40,11 @@
 }
 #contact-us{
     background-image: url(/images/c_image.jpg);
-    background-repeat: no-repeat;
+    background-position: center center;
     background-size: cover;
-    height: 100%;
-    width: 1400px;
+    background-repeat: no-repeat;
     color: white;
-    padding-left: 10%;
+
     
 }
 .panel {
@@ -69,29 +68,36 @@ input[type=text],input[type=email],#comment{
     font-size: 20px;
     font-family: 'Copse', serif;
   }
+  .form-control::-webkit-input-placeholder { 
+    color: white; }
 
   #portfolio1,#portfolio2,#portfolio3,#portfolio4,#portfolio5,#portfolio6,#portfolio7,#portfolio8{
     display: none;
     color: black;
     width: 100%;
     height: 100%;
+    background-color:rgba(255, 255, 255, 0.456);
     position:absolute;
     top: 20px;
     left: 35px;
-    bottom: 20px;
-    right: 35px;
     font-weight: bold;
     text-align: center;
     font-size: 30px;
-    padding-top: 40%;
-    background-color: whitesmoke;
+    padding-top: 50%;
+    padding-bottom: 40%;
   }
   
   
-  #work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
-      background-color: white;
-      opacity: ;
-  }
+    #work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
+        background-color: white;
+    }
+    .col-md-3 img{
+        width:100%px;
+        margin: 20px;
+      }
+      
+
+
   
   #contact-us h1{
       text-align: center;
