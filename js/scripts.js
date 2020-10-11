@@ -73,10 +73,10 @@ $(document).ready(function(){
       var email = $("input#email-input").val();
       var message = $("textarea#message").val();
       if ($("input#name-input").val() && $("input#email-input").val()){
-        alert (name + ", we have received your message. Thank you for reaching out to us.");
+        alert ("Hello " + name + ", we have received your message. Thank you for contacting us, we shall get back to you.");
       }
       else {
-        alert("Please enter your name and email!");
+        alert("Please enter your name and email address");
       }
       
     });
