@@ -68,7 +68,7 @@ $(document).ready(function(){
   });
 
   $(document).ready(function(){
-    $("client-input").submit(function(event){
+    $("#client-input").submit(function(event){
       var name = $("input#name-input").val();
       alert ("Hello " + name + ", we have received your message. Thank you for contacting us, we shall get back to you.");
     })
