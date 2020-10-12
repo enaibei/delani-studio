@@ -4,7 +4,7 @@ This is a website for Delani Studio, showing the services they offer and their c
 ## Set-up Instructions
 Fork or Clone the project and open the code with your text editor and run it with a live server
 ## GitHub Pages live link
-To be updated
+https://enaibei.github.io/delani-studio/
 ## Technologies used
 * HTML 5
 * CSS 3
