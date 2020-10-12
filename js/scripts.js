@@ -72,7 +72,7 @@ $(document).ready(function(){
       var name = $("input#name-input").val();
       var email = $("input#email-input").val();
       var message = $("textarea#message").val();
-      if ($("input#name-input").val() && $("input#email-input").val()){
+      if ($("input#name-input").val() && $("input#email-input").val() == ""){
         alert ("Hello " + name + ", we have received your message. Thank you for contacting us, we shall get back to you.");
       }
       else {
