@@ -104,10 +104,12 @@ input[type=text],input[type=email],#comment{
     margin: 20px;
       }
 
+#contact-us{
+    align-items: center;
+}
      
-#contact-us h1{
-    text-align: center;
-  }
+
+
 
 footer{
     padding-left: 30%;
