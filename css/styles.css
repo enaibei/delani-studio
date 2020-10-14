@@ -45,7 +45,7 @@
     align-items: center;
 }
 #contact-us{
-    background-image: url(/images/c_image.jpg);
+    background-image: url(../images/c_image.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
