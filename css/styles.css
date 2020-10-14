@@ -1,6 +1,6 @@
 .top-page{
     align-items: center;
-    background-image: url(/images/h_img.jpg);
+    background-image: url(../images/s_image.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -17,7 +17,7 @@
     text-align: center;
 }
 #services-section{
-    background-image: url(/images/s_image.jpg);
+    background-image: url(../images/s_image.jpg);
     text-align: center;
     align-items: center;
     color: white;
